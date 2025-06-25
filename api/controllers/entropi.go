@@ -1,3 +1,9 @@
+/**
+ * Entropi Meter API
+ * @version 1.0.0
+ * @description API untuk menghitung entropi dari teks, CSV, atau gambar.
+ * @author Puji Ermanto <pujiermanto@gmail.com>
+ **/
 package controllers
 
 import (
